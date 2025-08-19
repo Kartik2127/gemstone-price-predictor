@@ -1,0 +1,9 @@
+./gemenv
+gemenv
+venv/
+*.env
+__pycache__/
+*.pyc
+/artifacts
+/logs
+.vscode/
