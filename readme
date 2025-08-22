@@ -1,0 +1,19 @@
+#Gemstone Price Predictor
+
+This project predicts the price of gemstones based on their features (such as cut, color, clarity, carat, etc.).
+It uses Machine Learning models to analyze historical gemstone data and provide accurate price predictions.
+
+
+#Tech Stack
+Python
+Pandas, NumPy for data processing
+Scikit-learn for machine learning models
+
+
+#Features
+
+Data preprocessing and cleaning
+Exploratory Data Analysis (EDA)
+Feature engineering and encoding categorical variables
+Model training and evaluation (e.g., Linear Regression, Random Forest, XGBoost, etc.)
+
